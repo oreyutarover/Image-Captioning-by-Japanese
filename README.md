@@ -1,2 +1,2 @@
-# image_caption_jp
+# Image-Captioning-by-Japanese
 Automatically generate a caption of images by Japanese.
